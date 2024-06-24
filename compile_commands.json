@@ -1,0 +1,18 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-std=c11",
+      "-fdiagnostics-color=always",
+      "-Wall",
+      "-g",
+      "-o",
+      "bin/main",
+      "main.c"
+    ],
+    "directory": "/home/LightJack05/source/ConnectionTester",
+    "file": "/home/LightJack05/source/ConnectionTester/main.c",
+    "output": "/home/LightJack05/source/ConnectionTester/bin/main"
+  }
+]
